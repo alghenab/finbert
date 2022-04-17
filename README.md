@@ -1,5 +1,6 @@
-# Farsi/Persian Finbert
+# Translate neck to Bert financial sentiment classifier
 
-Notebook includes code for Feeding Persian text to **[Distill Roberta's financial sentiment](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)** through `google translate API`.
+via lazy way instead of trainig a whole model for each languge for financial sentiment use this notebook.
+Notebook includes code for Feeding any text languge to **[Distill Roberta's financial sentiment](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)** through `google translate API`.
 
 Give it a star if it was useful for you. 
